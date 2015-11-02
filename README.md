@@ -1,4 +1,6 @@
 # Base16 Builder
+Fork by mkehrt to remap colors to vim syntax groups in a way I like.
+
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
 See the [Base16](https://github.com/chriskempson/base16) repository for more information.
 Requires Ruby 1.9 or greater.
@@ -15,7 +17,7 @@ Build a scheme stored on some webspace.
 
 ## Templates
 * Atom
-* BBEdit (TextWrangler)
+* BBEdit (TextWrangler)e.
 * Chrome DevTools (Web Inspector)
 * Chrome Secure Shell
 * CodeMirror
